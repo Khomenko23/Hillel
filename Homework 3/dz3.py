@@ -9,3 +9,4 @@ elif a % 2 == 1:
     print('Weird')
 else:
     print('Data is invalid')
+
