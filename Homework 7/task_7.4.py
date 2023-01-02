@@ -13,3 +13,4 @@ for i in range(a):
     A.append(b)
 A.reverse()
 print(A)
+

@@ -6,7 +6,6 @@
 Вывести эти числа.
 """
 A = []
-
 a = int(input('Enter number N:'))
 print('Now please add a set of N numbers for a list')
 for i in range(a):

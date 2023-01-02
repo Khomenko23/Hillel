@@ -9,3 +9,4 @@ for i in text:
         digits += 1
 
 print(f'The total number of digits in your sentence is {digits}')
+
