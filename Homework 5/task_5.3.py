@@ -9,3 +9,4 @@ while i < a:
     print('*'*a)
     a -= 1
     n += 1
+
