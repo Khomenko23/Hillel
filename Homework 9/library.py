@@ -1,6 +1,5 @@
 from typing import Union
 
-
 number_request = 'Please enter a number like 1.00 or 10 >>> '
 
 
@@ -78,3 +77,4 @@ def logic_value(need_positive: bool = True):
     if need_positive:
         return lambda x: abs(x)
     return lambda x: abs(x) * -1
+

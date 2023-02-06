@@ -10,6 +10,3 @@ def deposit_amount(default=None):
     result_uah = hryvnas + library.get_hryvnas(hryvnas)
     coins = cents + library.get_coins(int(cents))
     print(result_uah, coins)
-
-
-
