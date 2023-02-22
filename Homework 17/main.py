@@ -41,4 +41,3 @@ human_2.get_info()
 human_3.get_info()
 
 human_1.call()
-
